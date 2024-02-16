@@ -14,14 +14,23 @@ Use the below guide to create a Spring boot project in Eclipse STS IDE:
 => Create Spring Boot Project in Spring Tool Suite [STS]
 
 Selected below dependencies while creating spring boot project using spring initializr:
-- Spring Web
-- Thymeleaf
-- Spring Data JPA
-- MySQL Driver
-- Spring Boot Devtools
+ Spring Web
+ Thymeleaf
+ Spring Data JPA
+ MySQL Driver
+ Spring Boot Devtools
 2. Create Spring Boot Project Structure
-Let's create the below packages in our Spring boot project:
-- controller
-- service
-- repository
-- entity
+
+ controller
+ service
+ repository
+ entity
+
+SMS
+Key Features – Administrators to create, update, and delete student profiles, including personal information.
+Technologies used – Core Java, Spring Boot ,  JDBC, Thymleaf, MySQL (Database) Description –
+•	Employed Java to ensure efficient and robust backend processing.
+•	Implemented both client-side and server-side validations to bolster authentication security.
+•	Utilized the SMTP Email protocol to seamlessly deliver OTPs to users, enabling for Delete after verification.
+•	Managed user sessions using Http Session Object for improved security and state management.
+
