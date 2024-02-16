@@ -33,4 +33,5 @@ Technologies used – Core Java, Spring Boot ,  JDBC, Thymleaf, MySQL (Database)
 •	Implemented both client-side and server-side validations to bolster authentication security.
 •	Utilized the SMTP Email protocol to seamlessly deliver OTPs to users, enabling for Delete after verification.
 •	Managed user sessions using Http Session Object for improved security and state management.
+![image](https://github.com/Kundan52017/SMS/assets/144003234/0f4c783f-8616-4f43-b14d-8685afcc60a3)
 
