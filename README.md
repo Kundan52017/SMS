@@ -41,12 +41,12 @@ Web Application
 ![image](https://github.com/Kundan52017/SMS/assets/144003234/0f4c783f-8616-4f43-b14d-8685afcc60a3)
 
 
-Create List of Students
+Update of Students
 ![image](https://github.com/Kundan52017/SMS/assets/144003234/930a4c68-ff27-4235-ab87-6a7eaa2e8131)
 
-Update Students 
 
-![image](https://github.com/Kundan52017/SMS/assets/144003234/95938900-6f0f-4138-a05d-f7f9b3e756e8)
+
+
 
 
 
